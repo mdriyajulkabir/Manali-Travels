@@ -1,0 +1,38 @@
+.banner-text {
+  position: absolute;
+  top: 40%;
+  right: 55%;;
+}
+.banner-button{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 1px solid #6abe45;
+    border-radius: 50px;
+    background-color: #6abe45;
+}
+.banner-button:hover{
+    background-color: aliceblue; 
+}
+
+@media screen and (max-width: 420px) {
+    .banner-text {
+        position: absolute;
+        top: 30%;
+        right: 55%;;
+      }
+    .banner-text h1{
+        font-size: 11px;
+    }
+    .banner-button{
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        border: 1px solid #6abe45;
+        border-radius: 50px;
+        background-color: #6abe45;
+    }
+}
+

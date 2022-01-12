@@ -1,0 +1,110 @@
+.service-container{
+    position: relative;
+}
+.service-line-container{
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    top: 0%;
+    right: 49%;
+}
+.service-line-container2{
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    top: 4%;
+    right: 49%;
+
+}
+.service-line{
+    padding-top: 30px;
+    padding-bottom: 28px;
+    padding-left: 8px;
+    padding-right: 5px;
+    background-color: #6abe45;
+    opacity: 0.4;
+    border-radius: 10px;
+    text-align: center;
+    transform: rotate(45deg);
+}
+.service-line2{
+    width: 5%;
+    padding-top: 30px;
+    padding-bottom: 28px;
+    padding-left: 8px;
+    padding-right: 5px;
+    background-color: #6abe45;
+    opacity: 0.4;
+    border-radius: 10px;
+    text-align: center;
+    transform: rotate(45deg);
+}
+.fa-tint{
+    color: #9feb7c;
+    font-size: 100px;
+}
+.fa-tint:hover{
+    color: rgb(131, 209, 14);
+}
+.fa-subway{
+    font-size: 38px;
+    position: relative;
+    right: 15%;
+    top: -5%;
+    color: rgb(98, 105, 105);
+}
+.fa-subway:hover{
+    color: rgb(42, 170, 159);
+}
+.fa-bed{
+    font-size: 35px;
+    position: relative;
+    right: 16%;
+    top: -7%;
+    color: rgb(98, 105, 105);
+}
+.fa-bed:hover{
+    color: rgb(42, 170, 159);
+}
+.fa-plane{
+    font-size: 35px;
+    position: relative;
+    right: 16%;
+    top: -7%;
+    transform: rotate(-45deg);
+    color: rgb(98, 105, 105);
+}
+.fa-plane:hover{
+    color: rgb(42, 170, 159);
+}
+.fa-ticket-alt{
+    font-size: 35px;
+    position: relative;
+    right: 16%;
+    top: -7%;
+    transform: rotate(-45deg);
+    color: rgb(98, 105, 105);
+}
+.fa-ticket-alt:hover{
+    color: rgb(42, 170, 159);
+}
+.fa-ship{
+    font-size: 35px;
+    position: relative;
+    right: 16%;
+    top: -7%;
+    color: rgb(98, 105, 105);
+}
+.fa-ship:hover{
+    color: rgb(42, 170, 159);
+}
+.fa-home{
+    font-size: 35px;
+    position: relative;
+    right: 16%;
+    top: -7%;
+    color: rgb(98, 105, 105);
+}
+.fa-home:hover{
+    color: rgb(42, 170, 159);
+}
