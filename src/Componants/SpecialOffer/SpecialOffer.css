@@ -1,0 +1,43 @@
+.specialOffer-hr{
+    width: 15%;
+    border: 2px solid #f56960;
+}
+.specialOffer-header{
+    color: #101f46;
+    text-align: center;
+    font-weight: bolder
+}
+.offer-card-body{
+    position: relative;
+}
+.offer-card-text{
+    position: relative;
+    top: -10%;
+    left: 13%
+}
+.offer-card-text h5{
+    color: #0791BE;
+}
+.offer-card-text h5:hover{
+    color: #F56960;
+}
+.offer-card-text h4{
+    color: #0085BA;
+}
+.offer-card-text h4:hover{
+    color: #0e3a63;
+}
+.offer-card-text p{
+    color: #F56960;
+}
+.offer-off{
+    background-color: #F56960;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 20%;
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: -2%;
+    right: 0%;
+}

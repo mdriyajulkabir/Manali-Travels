@@ -7,7 +7,7 @@ import iconThree from "../../Image/whyIconThree.jpg";
 const WhyChooseUS = () => {
   return (
     <div>
-      <div className="row w-100">
+      <div className="row w-100 px-1">
         <div className="col-lg-6 col-md-6 col-sm-12">
           <img src={WhyChooseBanner} className="img-fluid" alt="" />
         </div>

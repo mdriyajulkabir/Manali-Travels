@@ -4,6 +4,7 @@ import Banner from './Componants/Banner/Banner';
 import BookingItems from './Componants/BookingItems/BookingItems';
 import Header from './Componants/Header/Header';
 import OurService from './Componants/OurService/OurService';
+import SpecialOffer from './Componants/SpecialOffer/SpecialOffer';
 import WhyChooseUS from './Componants/WhyChooseUs/WhyChooseUS';
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
        <BookingItems/>
        <OurService/>
        <Advanture/>
+       <SpecialOffer/>
        <WhyChooseUS/>
     </div>
   );

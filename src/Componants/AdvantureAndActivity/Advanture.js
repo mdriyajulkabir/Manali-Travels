@@ -11,7 +11,7 @@ const Advanture = () => {
         <>
             <div className='my-5'>
                 <div className='d-flex justify-content-center' style={{color: '#f56960'}}>
-                    <hr  className='w-25 fw-bold'/>
+                    <hr  className='adventure-hr'/>
                     <h5>ᴛʀᴀᴠᴇʟ ʙʏ ᴀᴄᴛɪᴠɪᴛʏ</h5>
                 </div>
                 <h1 className='adventure-header'>ADVENTURE & ACTIVITY</h1>
