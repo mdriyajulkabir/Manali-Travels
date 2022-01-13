@@ -1,0 +1,15 @@
+.adventure-header{
+    color: #101f46;
+    text-align: center;
+    font-weight: bolder
+}
+.adventure-div{
+    border: 1px solid #d9d9d9;
+    text-align: center;
+    padding: 15px;
+    margin-top: 20px;
+}
+.adventure-div h5{
+    color: #101f46;
+    margin-top: 10px;
+}
