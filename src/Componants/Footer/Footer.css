@@ -1,0 +1,20 @@
+.footer-container{
+    background-image: url('../../Image/footerBg.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+.footer-header{
+    border-left: 3px solid #0e3c4b;
+    padding-left: 10px;
+    font-weight: bold;
+    margin-bottom: 25px;
+}
+.post{
+    border-left: 2px solid white;
+    padding-left: 10px;
+}
+.footer-hr{
+    border: 2px solid white;
+}
