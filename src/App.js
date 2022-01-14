@@ -7,6 +7,7 @@ import Header from './Componants/Header/Header';
 import OurService from './Componants/OurService/OurService';
 import SpecialOffer from './Componants/SpecialOffer/SpecialOffer';
 import WhyChooseUS from './Componants/WhyChooseUs/WhyChooseUS';
+import TourPlace from './TourPlace/TourPlace';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
        <Banner/>
        <BookingItems/>
        <OurService/>
+       <TourPlace/>
        <Advanture/>
        <SpecialOffer/>
        <WhyChooseUS/>

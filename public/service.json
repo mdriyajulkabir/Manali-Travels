@@ -1,0 +1,101 @@
+[
+    {
+      "id": 1,
+      "title": "Eiffel Tower",
+      "img": "https://media.architecturaldigest.com/photos/5ef5f6b4e5c8c1d259c3b00b/16:9/w_2560%2Cc_limit/GettyImages-803432314.jpg",
+      "desc": "The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower.his work on the building is part Eiffel Tower.",
+      "price": 1970,
+      "people": 12,
+      "rating": 57,
+      "location": "France",
+      "day": "4D/5N"
+    },
+    {
+      "id": 2,
+      "title": "La Sagrada Familia",
+      "img": "https://wp.en.aleteia.org/wp-content/uploads/sites/2/2019/06/web3-sagrada-familia-barcelona-spain-cathedral-shutterstock_546397690.jpg",
+      "desc": "The Basílica de la Sagrada Família,  is a large unfinished minor basilica in the Eixample district of Barcelona, Catalonia, Spain. Designed by the Catalan architect Antoni Gaudí, his work on the building is part of a UNESCO World Heritage Site.",
+      "price": 2100,
+      "people": 10,
+      "rating": 64,
+      "location": "Spain",
+      "day": "5D/6N"
+    },
+    {
+      "id": 3,
+      "title": "Machu Picchu",
+      "img": "https://elamariie.files.wordpress.com/2017/05/img_2476.jpg",
+      "desc": "Machu Picchu is an Incan citadel set high in the Andes Mountains in Peru, above the Urubamba River valley. Built in the 15th century and later abandoned, it’s renowned for its sophisticated dry-stone walls fuse huge blocks without mortar.",
+      "price": 1999,
+      "people": 15,
+      "rating": 49,
+      "location": "Peru",
+      "day": "3D/4N"
+    },
+    {
+      "id": 4,
+      "title": "Sydney Opera House",
+      "img": "https://www.tripsavvy.com/thmb/RzsUDbLXNye-mDf97iGkASTcKYw=/2121x1193/smart/filters:no_upscale()/OperaHouse-755d893182dc4811b608eb1a99792fd7.jpg",
+      "desc": "The Sydney Opera House is a multi-venue performing arts centre in Sydney. Located on the banks of the Sydney Harbour, it is often regarded as one of the world's most famous and distinctive buildings and a masterpiece of 20th century architecture.they make up the largest waterfall system Florida",
+      "price": 2391,
+      "people": 19,
+      "rating": 69,
+      "location": "Australia",
+      "day": "4D/5N"
+    },
+    {
+      "id": 5,
+      "title": "Walt Disney World® Resort",
+      "img": "https://mickeyblog.com/wp-content/uploads/2020/04/Magic-Kingdom2.jpg",
+      "desc": "The Walt Disney World Resort, also called Walt Disney World or Disney World, is an entertainment resort complex in Bay Lake and Lake Buena Vista,they make up the largest waterfall system Florida, United States, near the cities of Orlando and Kissimmee.",
+      "price": 1699,
+      "people": 9,
+      "rating": 90,
+      "location": "USA",
+      "day": "2D/3N"
+    },
+    {
+      "id": 6,
+      "title": "Iguazu Falls",
+      "img": "https://www.tripsavvy.com/thmb/xJ1-kvBsuglBvNpiAhvcgiKZUuQ=/1885x1414/smart/filters:no_upscale()/iguazu-falls--iguazu-national-park--brazil-argentina-paraguay-border--1171077586-0c0af92a39e24d179bfa236d3248b2db.jpg",
+      "desc": "Iguazú Falls or Iguaçu Falls are waterfalls of the Iguazu River on the border of the Argentine province of Misiones and the Brazilian state of Paraná. Together, they make up the largest waterfall system in the world. The falls divide the river into the upper and lower Iguazu.",
+      "price": 2700,
+      "people": 14,
+      "rating": 80,
+      "location": "Argentina",
+      "day": "4D/5N"
+    },
+    {
+      "id": 7,
+      "title": "St. Lucia",
+      "img": "https://www.astons.com/uploads/news/announce_image/1068/3.jpg",
+      "desc": "St. Lucia's beaches may be smaller than others on this list, but they're no less beautiful. Visitors won't find many lengthy stretches of sand here, but they'll have their pick of charming coves and private shorelines backed by lush mountains stretching from Sea Beach. ",
+      "price": 1700,
+      "people": 11,
+      "rating": 50,
+      "location": "Castries",
+      "day": "6D/7N"
+    },
+    {
+      "id": 8,
+      "title": "Cox’s Bazar",
+      "img": "https://tourfly24.com/wp-content/uploads/2020/10/121096265_799768984152146_6659442965901248251_n.jpg",
+      "desc": "Cox’s Bazar is a town on the southeast coast of Bangladesh. It’s known for its very long, sandy beachfront, stretching from Sea Beach in the north to Kolatoli Beach in the south. Aggameda Khyang monastery is home to bronze statues and centuries-old Buddhist manuscripts.",
+      "price": 999,
+      "people": 7,
+      "rating": 89,
+      "location": "BD",
+      "day": "6D/7N"
+    },
+    {
+      "id": 9,
+      "title": "Banglar Taj Mahal",
+      "img": "https://www.thoughtco.com/thmb/zOUeYj57Ct8dljLpRtJUvexVZHM=/3761x2821/smart/filters:no_upscale()/TajMahal-56a3651f5f9b58b7d0d1b482.jpg",
+      "desc": "An immense mausoleum of white marble, built in Agra between 1631 and 1648 by order of the Mughal emperor Shah Jahan in memory of his favourite wife, the Taj Mahal is the jewel of Muslim art in India and one of the universally admired masterpieces of the world's heritage.",
+      "price": 590,
+      "people": 5,
+      "rating": 77,
+      "location": "India",
+      "day": "2D/3N"
+    }
+  ]
